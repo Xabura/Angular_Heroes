@@ -10,8 +10,10 @@ Heroe Dashboard:
 
 
 Heroe List:
+
 ![image](https://user-images.githubusercontent.com/73250262/153756826-d0d17653-3930-4d29-aa4d-4542a4f6883c.png)
 
 
 Hero Details:
+
 ![image](https://user-images.githubusercontent.com/73250262/153756850-c0cc9717-f602-42be-991e-b31a4f1119d4.png)
