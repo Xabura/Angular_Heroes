@@ -5,6 +5,7 @@ Here is simple Angular project.
 You can see heroes with some details, edit there names or add new ones.
 
 Heroe Dashboard:
+
 ![image](https://user-images.githubusercontent.com/73250262/153756809-f535e426-7f7c-4f5e-a771-11c84a5ee6c7.png)
 
 
